@@ -1,0 +1,23 @@
+/*Escreva um programa que some uma seqüência de inteiros. Admita que o primeiro inteiro lido
+com scanf especifica o número de valores que ainda devem ser fornecidos. Seu programa deve
+ler apenas um valor cada vez que scanf for executado. Uma seqüência típica de entrada poderia
+ser
+5 100 200 300 400 500
+onde o 5 indica que os valores subseqüentes 5 devem ser somados.
+*/
+#include<stdio.h>
+
+int main(){
+
+int i=0,a,sum;
+printf("Ingrese Os Enteiros Para para obter sua média (9999 para Sair)\n", );
+scanf("%s",&a);
+while(a!=9999){
+suma+=a;
+scanf("%s",&a);
+i++;
+}
+average=(float)sum/i;
+printf("A Medio Dos Enteiros É: %d",average);
+  
+}

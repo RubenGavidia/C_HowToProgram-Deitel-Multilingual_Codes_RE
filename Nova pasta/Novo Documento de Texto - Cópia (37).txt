@@ -1,0 +1,21 @@
+
+/*codigo para sacar cuenta del 10% de ventas en los malditos puntos de las heroinas*/
+
+#include<stdio.h>
+int main (){
+ int data=0,data2=0,total2=0; total1=0, porcentaje=0.10;
+printf("Ingrese el monto del punto (presione -1 para finalizar)\n");
+scanf("%d",&data);
+  while(data!=-1){
+  data2+=data
+    printf("Ingrese los datos presione -1 para finalizar\n");
+    scanf("%d",&data);
+  }
+    perdido=data2*porcentaje;
+    total=data2-perdido;
+    printf("\nel total en ventas es %d",data2);
+    printf("\nel dinero perdido en porcentajees %d"porcentaje);
+    printf("\nel dinero a transferir es %d",total1);
+
+
+}

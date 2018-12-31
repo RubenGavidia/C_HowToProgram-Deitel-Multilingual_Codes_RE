@@ -1,0 +1,54 @@
+Responda cada una de las siguientes preguntas:
+a) A un módulo de programa en C, se le llama:
+.(funcion)
+
+b) Una función se invoca mediante una:
+.(llamada a la funcion)
+
+c) A una variable que sólo se conoce dentro de la función en la que se definió se le llama:
+.(variable local)
+
+d) La instrucción (return )dentro de una función se utiliza para pasar el valor de una expresión hacia la función que la invoca
+.
+
+e) La palabra reservada (void) Se utiliza dentro de una función para indicar que ésta no devuelve valor alguno, o para indicar que la función no contiene parámetros
+.
+
+f) El (alcance) de un identificador se refiere a la porción del programa en la que se puede utilizar dicho identificador
+.
+
+g) Las tres formas de devolver el control desde la función invocada hasta la función que llama son:
+return ;
+return expression,
+encontrar llave derecha al final de la funcion .
+
+h) Un (prototipo de funcion) permite al compilador verificar el número, tipo y orden de los argumentos que se pasan a una función.
+
+i) La función (rand) se utiliza para producir números aleatorios.
+
+j) La función (srand)se utiliza para establecer la semilla de los números aleatorios para randomizar un programa.
+
+k) Los especificadores de clase de almacenamiento son:
+(auto, register, extern, static).
+.
+
+l) Se asume que las variables declaradas dentro de un bloque, o en la lista de parámetros de una función, tienen una clase de almacenamiento
+(automatico), a menos que se especifique lo contrario.
+
+m) El especificador de clase de almacenamiento(register)
+es una recomendación al compilador para que almacene una variable en uno de los registros de la computadora.
+
+n) Una variable definida fuera de cualquier bloque o función es una variable(global externa)
+.
+
+o) Para que una variable local de una función retenga su valor entre las llamadas a la misma, la variable se debe declarar con el especificador de clase de almacenamiento (static)
+.
+
+p) Los cuatro posibles alcances de un dentificador son:
+Alcance de función, alcance de archivo, alcance de bloque, alcance de prototipo de funcion
+
+q) Una función que se invoca a sí misma de manera directa o indirecta es una función (recursiva)
+.
+
+r) Por lo general, una función recursiva tiene dos componentes: uno que proporciona un medio para que termine la recursividad a través de la evaluación de un caso(base), y otro que expresa el problema como una
+llamada recursiva a un problema ligeramente más sencillo que el de la llamada original.
